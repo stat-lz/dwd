@@ -7,3 +7,7 @@ This is a repository for multiple dwd matlab routines. Note that the original DW
 - Qiao, X., & Zhang, L. (2015). Distance-weighted Support Vector Machine. *Statistics and Its Interface*, 8(3), 331-345.
 - Qiao, X., & Zhang, L. (2015). Flexible high-dimensional classification machines and their asymptotic properties. *The Journal of Machine Learning Research*, 16(1), 1547-1572.
 - Sun, H., Craig, B. A., & Zhang, L. (2017). Angle-based multicategory distance-weighted SVM. *The Journal of Machine Learning Research*, 18(1), 2981-3001.
+
+See a former website at https://www.stat.purdue.edu/~lingsong/research/dwd/matlab/
+
+Steve Marron has a website that holds his original dwd codes: https://marron.web.unc.edu/sample-page/marrons-matlab-software/
